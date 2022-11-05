@@ -47,7 +47,8 @@ This is a list of resources refered while preparing content for the talk. I have
   - [Video Demo](https://youtu.be/eIp2K6CeRc0)
 - Stock Price from Fundmentals Prediction: Predict if a stock will go up in the next 3 months based on fundamentals
   - [Code](https://github.com/Kaushal1011/CSE523-Machine-Learning-Quantcats)
-- Pollumeter: Detect future AQI by analysing time series data. -![Code](https://github.com/Kaushal1011/pollumeter)
+- Pollumeter: Detect future AQI by analysing time series data. 
+    -![Code](https://github.com/Kaushal1011/pollumeter)
 
 #### Computer Vision
 
