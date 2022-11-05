@@ -39,6 +39,8 @@ This is a list of resources refered while preparing content for the talk. I have
 ### AI/ML in Web3
 
 ### My Projects
+- [Blockchain-based Federated Learning](https://arxiv.org/abs/2110.02182)
+- [Blockchain and AI - IBM](https://www.ibm.com/in-en/topics/blockchain-ai)
 
 #### NLP/Time Series
 
