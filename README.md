@@ -1,6 +1,6 @@
 # AI-Web3-Talk
 
-AI-Web3 by Kaushal :D
+Resources and References for talk on AI and Web3
 
 [Presentation/Slides](https://docs.google.com/presentation/d/1MlS7ITucgzgIZV8Yx4xA9btWQD-5dZ9f-1CpgzTCG8Q/edit?usp=sharing)
 
